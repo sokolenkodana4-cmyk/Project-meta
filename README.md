@@ -26,3 +26,4 @@
 - `script.js` - функціональність (поділ сторінки)
 - `README.md` - документація
 
+[text](https://sokolenkodana4-cmyk.github.io/Project-meta/)
